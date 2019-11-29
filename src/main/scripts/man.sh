@@ -7,6 +7,6 @@
 
 java \
 -cp ".:/etc/hadoop/conf/:/etc/hbase/conf/:\
-/usr/hdp/current/phoenix-client/phoenix-client.jar:\
+phoenix-demo-1.0-SNAPSHOT-jar-with-dependencies.jar:\
 phoenix-demo-1.0-SNAPSHOT.jar" \
 com.bdiiot.phoenix.demo.Main
